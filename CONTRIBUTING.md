@@ -1,6 +1,6 @@
-# Contributing to PuliWeave
+# Contributing to PuliAtlas
 
-PuliWeave is currently a documented concept, not yet an open contribution project.
+PuliAtlas is currently a documented concept, not yet an open contribution project.
 
 Early public feedback will be most useful on:
 

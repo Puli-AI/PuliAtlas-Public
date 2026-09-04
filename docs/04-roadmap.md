@@ -24,7 +24,7 @@
 - comments/community adapters;
 - reference deployments and authoring previews.
 
-## 2.0 — Hosted PuliWeave beta
+## 2.0 — Hosted PuliAtlas beta
 
 - accounts, projects and private preview builds;
 - visual card and relationship editor;
