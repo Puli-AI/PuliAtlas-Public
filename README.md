@@ -1,8 +1,8 @@
 # PuliAtlas
 
-**Status:** public concept and documentation preview  
-**Documentation version:** 0.2  
-**Date:** 2026-09-04
+- **Status:** Public concept and documentation preview
+- **Documentation version:** 0.2
+- **Date:** 2026-09-04
 
 This public repository is the documentation foundation for PuliAtlas. It does not publish the private hosted-service code, Puli Consulting’s private knowledge graph, client material, or production secrets.
 
