@@ -5,7 +5,7 @@ This is a conceptual schema for public discussion. It is not yet a stable specif
 ## Card example
 
 ```yaml
-schema: puliweave/card/v0.1
+schema: puliatlas/card/v0.1
 id: idea-001
 slug: connections-before-categories
 status: published

@@ -2,7 +2,7 @@
 
 ## Connections before categories
 
-Folders and menus help people enter a body of knowledge. Explicit relationships help them understand it. PuliWeave supports both.
+Folders and menus help people enter a body of knowledge. Explicit relationships help them understand it. PuliAtlas supports both.
 
 ## One card, one page
 
@@ -30,5 +30,5 @@ Every graph action needs a keyboard, touch and text equivalent. Reduced-motion u
 
 ## Credit sources and influences
 
-PuliWeave acknowledges the products and thinkers that influenced its design while using its own implementation, brand and information architecture.
+PuliAtlas acknowledges the products and thinkers that influenced its design while using its own implementation, brand and information architecture.
 

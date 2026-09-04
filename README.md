@@ -1,12 +1,12 @@
-# PuliWeave
+# PuliAtlas
 
 **Status:** public concept and documentation preview  
-**Documentation version:** 0.1  
-**Date:** 2026-08-12
+**Documentation version:** 0.2  
+**Date:** 2026-09-04
 
-This v0.1 public package is the repository documentation foundation. It does not yet publish the proprietary Puli Consulting website code or promise a working PuliWeave importer.
+This public repository is the documentation foundation for PuliAtlas. It does not publish the private hosted-service code, Puli Consulting’s private knowledge graph, client material, or production secrets.
 
-PuliWeave is a proposed publishing system for turning connected notes into a coherent, interactive website: a navigable index, a living graph and one focused card at a time.
+PuliAtlas is a proposed publishing system for turning connected notes into a coherent, interactive website: a navigable index, a living graph and one focused card at a time.
 
 It grew from Puli Consulting’s work on a graph-centred company website. The public project is intended to help writers, researchers, educators and organisations publish connected knowledge without exposing their private source workspace.
 
@@ -23,11 +23,11 @@ numbered or curated index  ↔  interactive graph  ↔  focused note/card
 
 ## Intended inputs
 
-PuliWeave may eventually accept:
+PuliAtlas may eventually accept:
 
 - Roam Research exports;
 - Markdown with wiki links;
-- YAML or JSON following the public PuliWeave schema;
+- YAML or JSON following the public PuliAtlas schema;
 - other graph-note systems through adapters.
 
 No compatibility is implied until an importer is implemented and tested.
@@ -42,7 +42,7 @@ No compatibility is implied until an importer is implemented and tested.
 
 ## Repository boundary
 
-This public package contains product documentation and generic examples only. Puli Consulting’s private card content, internal graph, deployment secrets and client material belong in a separate private repository.
+This public package contains product documentation and generic examples only. Private application code, tenant architecture, deployment controls, Puli Consulting’s private cards, credentials, and client material belong in the private `Puli-AI/PuliAtlas` repository or their separately governed systems.
 
 ## Documentation
 
@@ -56,6 +56,8 @@ This public package contains product documentation and generic examples only. Pu
 
 ## Naming and licensing
 
-**PuliWeave** is the selected working product name. Trademark, domain and package-name clearance remain pending.
+**PuliAtlas** is the approved product name for this connected-knowledge publishing product. It is one product within Puli Consulting’s broader **myPuli** family; myPuli is not limited to PuliAtlas.
+
+The project was called **PuliWeave** during its initial documentation phase. The repository was renamed on 2026-09-04, preserving that history. Trademark, domain and package-name clearance remain pending.
 
 Publication on GitHub does not itself grant an open-source licence. Until Puli Consulting selects and adds a formal licence, the documentation and any future code should be treated as all rights reserved. See [LICENSE-NOTICE.md](LICENSE-NOTICE.md).

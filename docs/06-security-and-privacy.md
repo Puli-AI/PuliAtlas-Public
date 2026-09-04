@@ -16,7 +16,7 @@ Connected-note systems often contain private pages, block references, attachment
 
 ## Responsible disclosure
 
-Until a public repository and security contact are established, do not submit sensitive vulnerability details through a public issue. The future repository should publish a `SECURITY.md` with supported versions and a private reporting route.
+This public repository is established, but a private security-reporting route has not yet been published. Do not submit sensitive vulnerability details through a public issue. A `SECURITY.md` with supported versions and a private reporting route is required before any public code release.
 
 ## AI adapters
 

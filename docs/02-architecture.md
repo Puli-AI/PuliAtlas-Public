@@ -22,7 +22,7 @@ GitHub Pages / object storage / Nginx / other host
 
 ### Import adapters
 
-Adapters convert supported sources into a neutral PuliWeave record. The first adapters should be:
+Adapters convert supported sources into a neutral PuliAtlas record. The first adapters should be:
 
 1. native YAML/JSON;
 2. Markdown with wiki links;
